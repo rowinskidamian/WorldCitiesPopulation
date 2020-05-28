@@ -10,8 +10,10 @@
 <h3 align="center">v1.0</h3>
 
 <div align="center">
-    <a href="/login">Kliknij aby rozpocząć.</a>
+    <a href="login" target="_self">Kliknij aby rozpocząć.</a>
 </div>
+
+<%@ include file="/WEB-INF/footer.jsp" %>
 
 </body>
 </html>
