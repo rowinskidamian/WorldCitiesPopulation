@@ -1,4 +1,4 @@
-package model.progs;
+package progs;
 
 public class CheckLogin {
 
